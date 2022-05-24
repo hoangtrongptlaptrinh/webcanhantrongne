@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+}
+.header {
+    display: flex;
+    height: 450px;
+    background-color:#2c5f88; 
+    
+  }
+  .logo{
+    width: 524px;
+    height: 733px;
+    padding-top: 37px;
+   
+  }
+  .ten{
+      color:#fac4c4;
+      font-size: 70px;
+      padding-left: 79px;
+      padding-top: 75px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  }
+  .pt{
+      color: #fff;
+      font-size: 30px;
+      padding-left: 79px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .than {
+    display: flex;
+    height: 1100px;
+    width: 450px;
+    background-color:#fac4c4; 
+    
+  }
+  .hoso{
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 28px;
+      color: #2c5f88;
+      padding-left: 40px;
+      padding-top: 70px;
+  }
+  .ke{
+      width: 100px;
+      height: 5px;
+      background-color: #2c5f88;
+      padding-left: 40px;
+      display: flex;
+  }
+  .nd{
+      padding-right: 75px;
+      font-size: 23px;
+  }
+  .lk{
+      padding-top: 30px;
+      font-size: 23px;
+  }
+  .icon{
+    padding-top: 30px;
+    font-size: 23px;
+    list-style-type: none  ;
+  }
+  .dt1{
+      display: flex;
+  }
+  .dt{
+      padding-left: 20px;
+  }
+  .fa-solid{
+      padding-top: 26px;
+  }
+  .canh{
+      background-color:#fff;
+      height: 900px;
+      margin-left: 450px;
+      margin-top: -1100px;
+  }
+  .qt{
+
+      background-color:#fac4c4; 
+      margin-top: 120px;
+      margin-left: 120px;
+      width: 532px;
+      height: 45px;
+  }
+  .qt1{
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: #2c5f88;
+      font-size: 35px;
+      padding-left: 20px;
+
+  }
+  .lop{
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: #2c5f88;
+      padding-left: 121px;
+      padding-top: 35px;
+      font-size: 22px;
+
+  }
+  .pm{
+      
+    background-color:#fac4c4; 
+    margin-top: 60px;
+    margin-left: 120px;
+    width: 532px;
+    height: 45px;
+  }
+  .pm1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #2c5f88;
+    font-size: 35px;
+   padding-left: 20px;
+
+  }
+  .bk{
+      font-size: 20px;
+  }
